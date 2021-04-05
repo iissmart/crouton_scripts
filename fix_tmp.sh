@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo mount -o remount,size=3G /tmp/
+sudo mount -o remount,size=4G /tmp/
